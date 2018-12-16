@@ -1,6 +1,6 @@
 # MHBNN-PyTorch
 
-A resnet and alexnet implementation of Multi-view Harmonized Bilinear Netowrk for 3D Object Detection(MHBN) inpsired by [Tan Yu et al](http://openaccess.thecvf.com/content_cvpr_2018/html/Yu_Multi-View_Harmonized_Bilinear_CVPR_2018_paper.html). 
+A Pytorch implementation of Multi-view Harmonized Bilinear Netowrk for 3D Object Detection(MHBN) inpsired by [Tan Yu et al](http://openaccess.thecvf.com/content_cvpr_2018/html/Yu_Multi-View_Harmonized_Bilinear_CVPR_2018_paper.html). 
 
 In this paper, the 3D object recognition problem is converted to multi-view 2D image classification problem. For each 3D object, there are multiple images taken from different views. 
 
